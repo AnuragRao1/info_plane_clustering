@@ -1,4 +1,6 @@
-#### Step 1: First run main.py in order to compate the mutual information calculations which are saved in all.npy
+#### Step 1: First run main_torch.py in order to run the experimental pipeline. All data is stored as an .npy file.
 
-#### Step 2: Run plot_MI.ipynb to plot the information plane of the neural network
+#### Step 2: Run plot_MI.ipynb to generate the plots.
+
+The code and experiments were modified from https://github.com/mrtnoshad/EDGE/tree/master
 
